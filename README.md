@@ -15,6 +15,7 @@ This space is to explore personal experiences that foster a change in the techno
 ## Topics for the Peer-To-Peer Camp
 The main topic of the camp will be the p2p, distributed web, and the open call for papers will include the following topics:
 
+- People who are building peer-to-peer: success and fail stories, any stories, personal experience
 - Web3/DWeb/p2p infrastructure
 - Peer-to-peer protocols
 - Post-blockchain, beyond blockchain technologies
@@ -23,27 +24,32 @@ The main topic of the camp will be the p2p, distributed web, and the open call f
 - Projects, supporting DWeb values
 - Rad projects
 
-+Also:
+## Format
 - Talks/workshops that are maybe kind of weird and fun
 - Demos of cool stuff that’s kind of mind-blowing and/or really mind-blowing
 - Onboarding sessions for your really cool and/or rad DWeb project are very welcome
 - Inspiring multimedia arty experience for devs to “get” the distributed web
-- Whatever would be appropriate for sharing with dWeb community which fits peer-to-peer category 
+- Games
+- Discussions
+- Fireside chats
+- Storytelling
+- Facilitated sessions
+- Performances
+- Whatever would be appropriate for sharing with dWeb community which fits peer-to-peer category
 
-## Talk/Workshop details
+## Sessions details
 
-- The recommended duration of the talk is for 20-30 min
-- If you have a brief talk, we can fit it into a lightning talk session! Please, state in the application
+- The recommended duration of the session is 20-30 min.
+- If you have a brief talk, we can fit it into a lightning talk session
 - Workshops are recommended to be inclusive, 30 min-1,5 h
-- The default durations for talk recordings are 10/20/30 minutes
 
 
 ## Submit your talk!
-- Applications are sent via the typeform (TBA)
+- Please, send your application [here](https://forms.gle/6CyVvaMPb2ZW57Vp9) 
 
 
 ## For accepted talks
-- We will announce the schedule just before the DWeb camp. Don't worry if your talk is not in the schedule, we will have an off-schedule time, where you can still share your ideas! Make sure you booked your ticket and accomodation to the DWeb camp!
+- We will announce the schedule just before the DWeb camp and in case of successful application your session will be added to the general SCHED. Don't worry if your talk is not in the schedule, we will have an off-schedule time, where you can still share your ideas! Make sure to book your ticket and accomodation at the DWeb camp!
 
 
 ## Get in touch
