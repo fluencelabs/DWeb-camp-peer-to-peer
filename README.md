@@ -1,7 +1,10 @@
 # Call for Proposals - DWeb Camp - Peer-To-Peer Camp
 
-## Peer-To-Peer Camp is a track (sub-camp) organized within the [DWeb camp](https://dwebcamp.org/) happening on August 24-28, 2022 in Camp Navarro, CA.
+## Peer-To-Peer Space
+P2P space is a track (sub-camp) organized within the [DWeb camp](https://dwebcamp.org/) happening on August 24-28, 2022 in Camp Navarro, CA.
 
+Peer-to-peer space is not only about technology but also about person-to-person interaction intermediated by technologies. 
+This space is to explore personal experiences that foster a change in the technology world by sharing, connecting, experiencing, playing, thinking, and co-creating. Feel free to propose a session that you think might fit this track! 
 
 ## Important dates
 
